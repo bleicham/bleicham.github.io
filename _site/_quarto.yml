@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs 
+  render:
+    - "*.qmd"
+
+execute:
+  echo: false
+
+website:
+  title: "SISMID: MCMC 1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: about.qmd
+        text: Preparation
+      - href: additionaDetails.qmd
+        text: Additional Resources
+      - href: activity1.qmd
+        text: Activity 
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+

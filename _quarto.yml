@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs 
+  render:
+    - "*.qmd"
+
+execute:
+  echo: false
+
+website:
+  title: "New Web 2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

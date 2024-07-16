@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Monday, July 22, 8:30 AM – 5:00 PM\nTuesday July 23, 8:30 AM – 5:00 PM\nWednesday July 24, 8:30 AM – 12:00 PM\n\nClassroom: Randall Rollins Building (RR 200)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the QuantDiffForecast toolbox from GitHub prior to the lab and view the associated tutorial.\nThe QuantDiffForecast toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.\nPrior to the second half of the course, please make sure to download the most recent version of R and RStudio. Multiple R-packages are also needed prior to completing the second practicum. These include\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nThe Additional Resources page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the QuantDiffForecast toolbox and the associated tutorial."
+  },
+  {
+    "objectID": "index.html#meeting-times",
+    "href": "index.html#meeting-times",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Monday, July 22, 8:30 AM – 5:00 PM\nTuesday July 23, 8:30 AM – 5:00 PM\nWednesday July 24, 8:30 AM – 12:00 PM\n\nClassroom: Randall Rollins Building (RR 200)"
+  },
+  {
+    "objectID": "index.html#module-summary",
+    "href": "index.html#module-summary",
+    "title": "SISMID: MCMC 1",
+    "section": "Module Summary",
+    "text": "Module Summary\nMathematical models based on systems of ordinary differential equations (ODEs) are frequently applied in various scientific fields to assess hypotheses, estimate key model parameters, and generate predictions about the system’s state. To support their application, this module introduces frequentist and Bayesian methods for estimating parameters and generating short-term forecasts with quantified uncertainty from dynamical models. Motivating practical examples will be based on epidemic models with varying levels of complexity. The course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC.\nThe course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC. Some relevant facts from the Markov chain theory are reviewed. Algorithms include Gibbs sampling and Metropolis-Hastings. A practical introduction to convergence diagnostics is included. The module will alternate between lectures and computer labs."
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "SISMID: MCMC 1",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThis module assumes knowledge of probability and inference covered in an introductory statistical course. Students will learn to use R and MATLAB toolboxes designed for parameter estimation and forecasting using dynamic models. Students are expected to have basic knowledge of the R computing environment. Students new to R should complete a tutorial before the module."
+  },
+  {
+    "objectID": "index.html#module-content",
+    "href": "index.html#module-content",
+    "title": "SISMID: MCMC 1",
+    "section": "Module Content",
+    "text": "Module Content\n\nBrief review of ordinary differential equation models applied to infectious disease transmission and control.\nIntroduction to parameter identifiability\nIntroduction to uncertainty quantification using parametric bootstrapping\nModel selection and assessing the quality of model fit\nIntroduction to Bayesian statistics, Monte Carlo, and MCMC\nBayesian modeling framework for fitting and forecasting epidemic trajectories in Stan\nModel-based forecasts with quantified uncertainty\nMetrics for assessing calibration and forecasting performance"
+  },
+  {
+    "objectID": "index.html#required-software",
+    "href": "index.html#required-software",
+    "title": "SISMID: MCMC 1",
+    "section": "Required Software",
+    "text": "Required Software\nSoftware: R, R-Studio, MATLAB (The Mathworks, Inc.)\nR Packages: Stan\nMATLAB Packages: Curve Fitting Toolbox, Global Optimization Toolbox, Optimization Toolbox, Signal Processing Toolbox, Simulink, Statistics and Machine Learning Toolbox\nEmory has also provided us with access to the Apporto Virtual Desktop. This desktop contains the required MATLAB software, and comes pre-loaded with the needed MATLAB packages. If MATLAB is not available on the local system, please use Apporto. R and RStudio are free to download on your local system. Additional details regarding the set-up for the required software can be found within the Additional Resources page."
+  },
+  {
+    "objectID": "about.html#day-one-monday-july-22",
+    "href": "about.html#day-one-monday-july-22",
+    "title": "About",
+    "section": "Day One: Monday, July 22",
+    "text": "Day One: Monday, July 22\n\n8:30 - 10:00 am: Review of epidemic models (deterministic and stochastic)\n10:00-10:30 am: Break\n10:30-12:00 pm: Parameter identifiability. Fre"
+  },
+  {
+    "objectID": "about.html#schedule",
+    "href": "about.html#schedule",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Time\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\nReview of epidemic models (deterministic and stochastic\nIntro to Bayesian inference, Monte Carlo Markov Chain\nBayesian inference for fitting and forecasting epidemic models\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability. Frequentist approach to fitting and forecasting epidemics.\nMCMC algorithms + Lab\nPractical Exercise\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting tutorial + Lab\nThe Art of MCMC Sampling\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\nPractical Exercise\nData augmentation methods\n-"
+  },
+  {
+    "objectID": "about.html#presentations",
+    "href": "about.html#presentations",
+    "title": "SISMID: MCMC 1",
+    "section": "Presentations",
+    "text": "Presentations\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\n\n\n\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability\n\n\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting\n\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\n\n\n-"
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "SISMID: MCMC 1",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\nReview of epidemic models (deterministic and stochastic\nIntro to Bayesian inference, Monte Carlo Markov Chain\nBayesian inference for fitting and forecasting epidemic models\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability. Frequentist approach to fitting and forecasting epidemics.\nMCMC algorithms + Lab\nPractical Exercise\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting tutorial + Lab\nThe Art of MCMC Sampling\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\nPractical Exercise\nData augmentation methods\n-"
+  },
+  {
+    "objectID": "about.html#readings",
+    "href": "about.html#readings",
+    "title": "SISMID: MCMC 1",
+    "section": "Readings",
+    "text": "Readings\nWhile the readings for this module are optional. We highly recommend that you take a look at the following papers as they will help facilitate use of the QuantDiffForecast Toolbox, and will provide additional insight into the materials we will cover over the next few days.\n\nChowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: 10.1002/sim.10036. Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.\nChowell G. Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A Primer for parameter uncertainty, identifiability, and forecasts. Infect Dis Model. 2017 Aug;2(3):379-398. doi: 10.1016/j.idm.2017.08.001. Epub 2017 Aug 12. PMID: 29250607; PMCID: PMC5726591.\nBleichrodt A, Luo R, Kirpich A, Chowell G. Evaluating the forecasting performance of ensemble sub-epidemic frameworks and other time series models for the 2022–2023 mpox epidemic. Royal Society Open Science [Internet]. 2024 Jul 1 [cited 2024 Jul 15];11(7). Available from: https://doi.org/10.1098/rsos.240248."
+  },
+  {
+    "objectID": "about.html#getting-start",
+    "href": "about.html#getting-start",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the QuantDiffForecast toolbox from GitHub prior to the lab and view the associated tutorial.\nThe QuantDiffForecast toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.\nPrior to the second half of the course, please make sure to download the most recent version of R and RStudio. Multiple packages are also needed prior to completing the second practicum. These include\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nThe Additional Resources page contains tutorials on how to download both R and Rstudio, as well as includes a tutorial on downloading packages in R."
+  },
+  {
+    "objectID": "additionaDetails.html",
+    "href": "additionaDetails.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Login Portal: https://rsphemory.apporto.com/\nSlides: Apporto Virtual Desktop Tutorial\nCovers\n\nLogging into the desktop\nUploading data\nDownloading data\n\n\n\n\nOnline Tutorial: MATLAB Tutorial\nSlides: Exploring MATLAB\nCovers\n\nGeneral Structure\nAdding Packages\n\n\n\n\nLink to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video"
+  },
+  {
+    "objectID": "additionaDetails.html#software-resources",
+    "href": "additionaDetails.html#software-resources",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Login Portal: https://rsphemory.apporto.com/\nSlides: Apporto Virtual Desktop Tutorial\nCovers\n\nLogging into the desktop\nUploading data\nDownloading data\n\n\n\n\nOnline Tutorial: MATLAB Tutorial\nSlides: Exploring MATLAB\nCovers\n\nGeneral Structure\nAdding Packages\n\n\n\n\nLink to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video"
+  },
+  {
+    "objectID": "additionaDetails.html#rstudio",
+    "href": "additionaDetails.html#rstudio",
+    "title": "MCMC 1",
+    "section": "RStudio",
+    "text": "RStudio"
+  },
+  {
+    "objectID": "additionaDetails.html#tutorial-resources",
+    "href": "additionaDetails.html#tutorial-resources",
+    "title": "SISMID: MCMC 1",
+    "section": "Tutorial Resources",
+    "text": "Tutorial Resources\n\nQuantDiffForecast\nSlides: QuantDiffForecast Overview\nCovers\n\nGeneral Structure\nPreparing the toolbox\nWorkflow\n\nTutorial Paper: Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: 10.1002/sim.10036. Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.\nTutorial Video\n\n\n\n\nRStan\nWebsite: Rstan\nTutorial: RStan GitHub\nCovers\n\nInstalling RStan\nBasic usuage examples"
+  },
+  {
+    "objectID": "activity1.html",
+    "href": "activity1.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "This is where you can respond with your results from the first practical exercise and find details regarding the second practical exercise. First, you will find a series of polls where you can respond with your findings from the first practical exercise. You will then find details regarding the second practical exercise that will occur later in RStudio. As always, if you have any questions please reach out!"
+  },
+  {
+    "objectID": "activity1.html#about",
+    "href": "activity1.html#about",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "This is where you can respond with your results from the first practical exercise and find details regarding the second practical exercise. First, you will find a series of polls where you can respond with your findings from the first practical exercise. You will then find details regarding the second practical exercise that will occur later in RStudio. As always, if you have any questions please reach out!"
+  },
+  {
+    "objectID": "activity1.html#polls",
+    "href": "activity1.html#polls",
+    "title": "MCMC 1",
+    "section": "Polls",
+    "text": "Polls"
+  },
+  {
+    "objectID": "about.html#getting-started",
+    "href": "about.html#getting-started",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the QuantDiffForecast toolbox from GitHub prior to the lab and view the associated tutorial.\nThe QuantDiffForecast toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.\nPrior to the second half of the course, please make sure to download the most recent version of R and RStudio. Multiple R-packages are also needed prior to completing the second practicum. These include\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nThe Additional Resources page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the QuantDiffForecast toolbox and the associated tutorial."
+  },
+  {
+    "objectID": "additionaDetails.html#r-rstudio",
+    "href": "additionaDetails.html#r-rstudio",
+    "title": "MCMC 1",
+    "section": "R & RStudio",
+    "text": "R & RStudio\nLink to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details."
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-1-overview-polls",
+    "href": "activity1.html#practical-exercise-1-overview-polls",
+    "title": "MCMC 1",
+    "section": "Practical Exercise 1: Overview & Polls",
+    "text": "Practical Exercise 1: Overview & Polls\nPrior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:\n\nCurve Fitting Toolbox\nGlobal Optimization Toolbox\nOptimization Toolbox\nSignal Processing Toolbox\nSimulink\nStatistics\nMachine Learning Toolbox"
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-2-about",
+    "href": "activity1.html#practical-exercise-2-about",
+    "title": "MCMC 1",
+    "section": "Practical Exercise 2: About",
+    "text": "Practical Exercise 2: About\nPrior to the second practical exercise, please make sure R, RStudio, RStan and other necessary packages are downloaded. Additional needed packages include:\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nPlease refer to the Additional Resources page for tutorials related to downloaded the needed software and packages."
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-1",
+    "href": "activity1.html#practical-exercise-1",
+    "title": "SISMID: MCMC 1",
+    "section": "Practical Exercise 1",
+    "text": "Practical Exercise 1\nPrior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:\n\nCurve Fitting Toolbox\nGlobal Optimization Toolbox\nOptimization Toolbox\nSignal Processing Toolbox\nSimulink\nStatistics\nMachine Learning Toolbox"
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-2",
+    "href": "activity1.html#practical-exercise-2",
+    "title": "SISMID: MCMC 1",
+    "section": "Practical Exercise 2",
+    "text": "Practical Exercise 2\nPrior to the second practical exercise, please make sure R, RStudio, RStan and other necessary packages are downloaded. Additional needed packages include:\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nPlease refer to the Additional Resources page for tutorials related to downloaded the needed software and packages."
+  },
+  {
+    "objectID": "about.html#readings-and-additional-slides",
+    "href": "about.html#readings-and-additional-slides",
+    "title": "SISMID: MCMC 1",
+    "section": "Readings and Additional Slides",
+    "text": "Readings and Additional Slides\nWhile the readings for this module are optional. We highly recommend that you take a look at the following papers as they will help facilitate use of the QuantDiffForecast Toolbox, and will provide additional insight into the materials we will cover over the next few days.\n\nChowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: 10.1002/sim.10036. Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.\nChowell G. Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A Primer for parameter uncertainty, identifiability, and forecasts. Infect Dis Model. 2017 Aug;2(3):379-398. doi: 10.1016/j.idm.2017.08.001. Epub 2017 Aug 12. PMID: 29250607; PMCID: PMC5726591.\nBleichrodt A, Luo R, Kirpich A, Chowell G. Evaluating the forecasting performance of ensemble sub-epidemic frameworks and other time series models for the 2022–2023 mpox epidemic. Royal Society Open Science [Internet]. 2024 Jul 1 [cited 2024 Jul 15];11(7). Available from: https://doi.org/10.1098/rsos.240248.\nGelman A, Carlin J, Stern H, Dunson D, Vehtari A, Rubin D. Bayesian Data Analysis Third edition (with errors fixed as of 15 February 2021). 3rd ed. 2021. Link to text.\nSlides: Intro to Stan"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "SISMID: MCMC 1",
+    "section": "Instructors",
+    "text": "Instructors\n\nGerardo Chowell, PhD\nProfessor and Chair, Department of Population Health Sciences, Georgia State University\nDr. Chowell’s research focuses on developing and applying mathematical and statistical methods for investigating the spread and control of emerging and re-emerging pathogens. Recent works includes leading the development of various toolboxes for fitting and forecasting disease trends.\nEmail: gchowell@gsu.edu\n\n\nNick Hengartner, PhD\nActing Director, Center for Nonlinear Studies, Los Alamos National Laboratory.\nDr. Hengartner’s research interests include Applied Mathematics, Mathematical Biology, Machine Learning, and Data Science. He is interested in understanding and developing methodologies to learn from data. He is a fellow of the American Statistical Association.\nEmail: nickh@lanl.gov\n\n\nTA: Amanda Bleichrodt, MPH\nDoctoral Student, Department of Population Health Sciences, Georgia State University\nAmanda is this course’s teaching assistant and a 2CI fellow in Dr. Gerardo Chowell’s lab. Her research interests include exploring diverse modeling methodologies for forecasting disease outbreaks and developing user-friendly forecasting tools. Recent works include evaluating model performance in forecasting the recent mpox outbreak and real-time forecasting of multiple disease types.\nEmail: ableichrodt1@student.gsu.edu"
+  }
+]
