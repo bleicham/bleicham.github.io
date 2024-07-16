@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.53">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>New Web 2</title>
+<title>SISMID: MCMC 1</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,26 +79,34 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">New Web 2</span>
+    <span class="navbar-title">SISMID: MCMC 1</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Preparation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./additionaDetails.html"> 
+<span class="menu-text">Additional Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./activity1.html"> 
+<span class="menu-text">Activity</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -108,39 +116,155 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#meeting-times" id="toc-meeting-times" class="nav-link active" data-scroll-target="#meeting-times">Meeting Times</a></li>
+  <li><a href="#module-summary" id="toc-module-summary" class="nav-link" data-scroll-target="#module-summary">Module Summary</a></li>
+  <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
+  <li><a href="#required-software" id="toc-required-software" class="nav-link" data-scroll-target="#required-software">Required Software</a></li>
+  <li><a href="#module-content" id="toc-module-content" class="nav-link" data-scroll-target="#module-content">Module Content</a></li>
+  <li><a href="#instructors" id="toc-instructors" class="nav-link" data-scroll-target="#instructors">Instructors</a>
+  <ul class="collapse">
+  <li><a href="#gerardo-chowell-phd" id="toc-gerardo-chowell-phd" class="nav-link" data-scroll-target="#gerardo-chowell-phd">Gerardo Chowell, PhD</a></li>
+  <li><a href="#nick-hengartner-phd" id="toc-nick-hengartner-phd" class="nav-link" data-scroll-target="#nick-hengartner-phd">Nick Hengartner, PhD</a></li>
+  <li><a href="#ta-amanda-bleichrodt-mph" id="toc-ta-amanda-bleichrodt-mph" class="nav-link" data-scroll-target="#ta-amanda-bleichrodt-mph">TA: Amanda Bleichrodt, MPH</a></li>
+  </ul></li>
+  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">Schedule</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">New Web 2</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
+<section id="meeting-times" class="level2">
+<h2 class="anchored" data-anchor-id="meeting-times">Meeting Times</h2>
+<ul>
+<li>Monday, July 22, 8:30 AM – 5:00 PM</li>
+<li>Tuesday July 23, 8:30 AM – 5:00 PM</li>
+<li>Wednesday July 24, 8:30 AM – 12:00 PM</li>
+</ul>
+<p>Classroom: Randall Rollins Building (RR 200)</p>
+</section>
+<section id="module-summary" class="level2">
+<h2 class="anchored" data-anchor-id="module-summary">Module Summary</h2>
+<p>Mathematical models based on systems of ordinary differential equations (ODEs) are frequently applied in various scientific fields to assess hypotheses, estimate key model parameters, and generate predictions about the system’s state. To support their application, this module introduces frequentist and Bayesian methods for estimating parameters and generating short-term forecasts with quantified uncertainty from dynamical models. Motivating practical examples will be based on epidemic models with varying levels of complexity. The course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC.</p>
+<p>The course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC. Some relevant facts from the Markov chain theory are reviewed. Algorithms include Gibbs sampling and Metropolis-Hastings. A practical introduction to convergence diagnostics is included. The module will alternate between lectures and computer labs.</p>
+</section>
+<section id="prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
+<p>This module assumes knowledge of probability and inference covered in an introductory statistical course. Students will learn to use R and MATLAB toolboxes designed for parameter estimation and forecasting using dynamic models. Students are expected to have basic knowledge of the R computing environment. Students new to R should complete a tutorial before the module.</p>
+</section>
+<section id="required-software" class="level2">
+<h2 class="anchored" data-anchor-id="required-software">Required Software</h2>
+<p><strong>Software:</strong> R, R-Studio, MATLAB (The Mathworks, Inc.)</p>
+<p><strong>R Packages:</strong> Stan</p>
+<p><strong>MATLAB Packages:</strong> Curve Fitting Toolbox, Global Optimization Toolbox, Optimization Toolbox, Signal Processing Toolbox, Simulink, Statistics and Machine Learning Toolbox</p>
+<p>Emory has also provided us with access to the Apporto Virtual Desktop. This desktop contains the required MATLAB software, and comes pre-loaded with the needed MATLAB packages. If MATLAB is not available on the local system, please use Apporto. R and RStudio are free to download on your local system. Additional details regarding the set-up for the required software can be found within the <a href="./additionaDetails.html">Additional Resources</a> page.</p>
+</section>
+<section id="module-content" class="level2">
+<h2 class="anchored" data-anchor-id="module-content">Module Content</h2>
+<ul>
+<li><p>Brief review of ordinary differential equation models applied to infectious disease transmission and control.</p></li>
+<li><p>Introduction to parameter identifiability</p></li>
+<li><p>Introduction to uncertainty quantification using parametric bootstrapping</p></li>
+<li><p>Model selection and assessing the quality of model fit</p></li>
+<li><p>Introduction to Bayesian statistics, Monte Carlo, and MCMC</p></li>
+<li><p>Bayesian modeling framework for fitting and forecasting epidemic trajectories in Stan</p></li>
+<li><p>Model-based forecasts with quantified uncertainty</p></li>
+<li><p>Metrics for assessing calibration and forecasting performance</p></li>
+</ul>
+</section>
+<section id="instructors" class="level2">
+<h2 class="anchored" data-anchor-id="instructors">Instructors</h2>
+<section id="gerardo-chowell-phd" class="level3">
+<h3 class="anchored" data-anchor-id="gerardo-chowell-phd">Gerardo Chowell, PhD</h3>
+<p>Professor and Chair, Department of Population Health Sciences, Georgia State University</p>
+<p>Dr.&nbsp;Chowell’s research focuses on developing and applying mathematical and statistical methods for investigating the spread and control of emerging and re-emerging pathogens. Recent works includes leading the development of various toolboxes for fitting and forecasting disease trends.</p>
+<p><strong>Email:</strong> gchowell@gsu.edu</p>
+</section>
+<section id="nick-hengartner-phd" class="level3">
+<h3 class="anchored" data-anchor-id="nick-hengartner-phd">Nick Hengartner, PhD</h3>
+<p>Acting Director, Center for Nonlinear Studies, Los Alamos National Laboratory.</p>
+<p>Dr.&nbsp;Hengartner’s research interests include Applied Mathematics, Mathematical Biology, Machine Learning, and Data Science. He is interested in understanding and developing methodologies to learn from data. He is a fellow of the American Statistical Association.</p>
+<p><strong>Email:</strong> nickh@lanl.gov</p>
+</section>
+<section id="ta-amanda-bleichrodt-mph" class="level3">
+<h3 class="anchored" data-anchor-id="ta-amanda-bleichrodt-mph">TA: Amanda Bleichrodt, MPH</h3>
+<p>Doctoral Student, Department of Population Health Sciences, Georgia State University</p>
+<p>Amanda is this course’s teaching assistant and a 2CI fellow in Dr.&nbsp;Gerardo Chowell’s lab. Her research interests include exploring diverse modeling methodologies for forecasting disease outbreaks and developing user-friendly forecasting tools. Recent works include evaluating model performance in forecasting the recent mpox outbreak and real-time forecasting of multiple disease types.</p>
+<p><strong>Email:</strong> ableichrodt1@student.gsu.edu</p>
+</section>
+</section>
+<section id="schedule" class="level2">
+<h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 34%">
+<col style="width: 20%">
+<col style="width: 24%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Time</th>
+<th style="text-align: center;">Day 1</th>
+<th style="text-align: center;">Day 2</th>
+<th style="text-align: center;">Day 3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">8:30-10:00 am</td>
+<td style="text-align: center;">Review of epidemic models (deterministic and stochastic</td>
+<td style="text-align: center;">Intro to Bayesian inference, Monte Carlo Markov Chain</td>
+<td style="text-align: center;">Bayesian inference for fitting and forecasting epidemic models</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10:00-10:30 am</td>
+<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: center;"><em>Break</em></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10:30-12:00 pm</td>
+<td style="text-align: center;">Parameter identifiability. Frequentist approach to fitting and forecasting epidemics.</td>
+<td style="text-align: center;">MCMC algorithms + Lab</td>
+<td style="text-align: center;">Practical Exercise</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12:00 - 1:30 pm</td>
+<td style="text-align: center;"><em>Lunch Break</em></td>
+<td style="text-align: center;"><em>Lunch Break</em></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">1:30 - 3:00 pm</td>
+<td style="text-align: center;">Parameter estimation and forecasting tutorial + Lab</td>
+<td style="text-align: center;">The Art of MCMC Sampling</td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">3:00 - 3:30 pm</td>
+<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: center;"><em>Break</em></td>
+<td style="text-align: center;">-</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">3:30 - 5:00 pm</td>
+<td style="text-align: center;">Practical Exercise</td>
+<td style="text-align: center;">Data augmentation methods</td>
+<td style="text-align: center;">-</td>
+</tr>
+</tbody>
+</table>
 
-    
-  
-    
-  </div>
-  
 
-
-</header>
-
-
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -178,18 +302,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -221,7 +334,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -229,7 +364,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

@@ -1,16 +1,72 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "New Web 2",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "SISMID: MCMC 1",
     "section": "",
-    "text": "About this site\n\n\n[1] 2"
+    "text": "Please download the software specified on the Overview page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the QuantDiffForecast toolbox from GitHub prior to the lab and view the associated tutorial.\nThe QuantDiffForecast toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.\nPrior to the second half of the course, please make sure to download the most recent version of R and RStudio. Multiple R-packages are also needed prior to completing the second practicum. These include\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nThe Additional Resources page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the QuantDiffForecast toolbox and the associated tutorial."
+  },
+  {
+    "objectID": "about.html#getting-started",
+    "href": "about.html#getting-started",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Please download the software specified on the Overview page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the QuantDiffForecast toolbox from GitHub prior to the lab and view the associated tutorial.\nThe QuantDiffForecast toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.\nPrior to the second half of the course, please make sure to download the most recent version of R and RStudio. Multiple R-packages are also needed prior to completing the second practicum. These include\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nThe Additional Resources page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the QuantDiffForecast toolbox and the associated tutorial."
+  },
+  {
+    "objectID": "about.html#readings-and-additional-slides",
+    "href": "about.html#readings-and-additional-slides",
+    "title": "SISMID: MCMC 1",
+    "section": "Readings and Additional Slides",
+    "text": "Readings and Additional Slides\nWhile the readings for this module are optional. We highly recommend that you take a look at the following papers as they will help facilitate use of the QuantDiffForecast Toolbox, and will provide additional insight into the materials we will cover over the next few days.\n\nChowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: 10.1002/sim.10036. Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.\nChowell G. Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A Primer for parameter uncertainty, identifiability, and forecasts. Infect Dis Model. 2017 Aug;2(3):379-398. doi: 10.1016/j.idm.2017.08.001. Epub 2017 Aug 12. PMID: 29250607; PMCID: PMC5726591.\nBleichrodt A, Luo R, Kirpich A, Chowell G. Evaluating the forecasting performance of ensemble sub-epidemic frameworks and other time series models for the 2022–2023 mpox epidemic. Royal Society Open Science [Internet]. 2024 Jul 1 [cited 2024 Jul 15];11(7). Available from: https://doi.org/10.1098/rsos.240248.\nGelman A, Carlin J, Stern H, Dunson D, Vehtari A, Rubin D. Bayesian Data Analysis Third edition (with errors fixed as of 15 February 2021). 3rd ed. 2021. Link to text.\nSlides: Intro to Stan"
+  },
+  {
+    "objectID": "additionaDetails.html",
+    "href": "additionaDetails.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Login Portal: https://rsphemory.apporto.com/\nSlides: Apporto Virtual Desktop Tutorial\nCovers\n\nLogging into the desktop\nUploading data\nDownloading data\n\n\n\n\nOnline Tutorial: MATLAB Tutorial\nSlides: Exploring MATLAB\nCovers\n\nGeneral Structure\nAdding Packages\n\n\n\n\nLink to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video"
+  },
+  {
+    "objectID": "additionaDetails.html#software-resources",
+    "href": "additionaDetails.html#software-resources",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Login Portal: https://rsphemory.apporto.com/\nSlides: Apporto Virtual Desktop Tutorial\nCovers\n\nLogging into the desktop\nUploading data\nDownloading data\n\n\n\n\nOnline Tutorial: MATLAB Tutorial\nSlides: Exploring MATLAB\nCovers\n\nGeneral Structure\nAdding Packages\n\n\n\n\nLink to download R: CRAN-R\nLink to download RStudio: Posit\nRStudio Tutorial(s): Code Recipes\nRStudio Cheatsheets: Cheatsheets\nThe above two links contains multiple tutorials related to various aspects of RStudio ranging from basic usage to package-specific details.\nR Basics Tutorial Video"
+  },
+  {
+    "objectID": "additionaDetails.html#tutorial-resources",
+    "href": "additionaDetails.html#tutorial-resources",
+    "title": "SISMID: MCMC 1",
+    "section": "Tutorial Resources",
+    "text": "Tutorial Resources\n\nQuantDiffForecast\nSlides: QuantDiffForecast Overview\nCovers\n\nGeneral Structure\nPreparing the toolbox\nWorkflow\n\nTutorial Paper: Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: 10.1002/sim.10036. Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.\nTutorial Video\n\n\n\n\nRStan\nWebsite: Rstan\nTutorial: RStan GitHub\nCovers\n\nInstalling RStan\nBasic usuage examples"
+  },
+  {
+    "objectID": "activity1.html",
+    "href": "activity1.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "This is where you can respond with your results from the first practical exercise and find details regarding the second practical exercise. First, you will find a series of polls where you can respond with your findings from the first practical exercise. You will then find details regarding the second practical exercise that will occur later in RStudio. As always, if you have any questions please reach out!"
+  },
+  {
+    "objectID": "activity1.html#about",
+    "href": "activity1.html#about",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "This is where you can respond with your results from the first practical exercise and find details regarding the second practical exercise. First, you will find a series of polls where you can respond with your findings from the first practical exercise. You will then find details regarding the second practical exercise that will occur later in RStudio. As always, if you have any questions please reach out!"
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-1",
+    "href": "activity1.html#practical-exercise-1",
+    "title": "SISMID: MCMC 1",
+    "section": "Practical Exercise 1",
+    "text": "Practical Exercise 1\nPrior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:\n\nCurve Fitting Toolbox\nGlobal Optimization Toolbox\nOptimization Toolbox\nSignal Processing Toolbox\nSimulink\nStatistics\nMachine Learning Toolbox"
+  },
+  {
+    "objectID": "activity1.html#practical-exercise-2",
+    "href": "activity1.html#practical-exercise-2",
+    "title": "SISMID: MCMC 1",
+    "section": "Practical Exercise 2",
+    "text": "Practical Exercise 2\nPrior to the second practical exercise, please make sure R, RStudio, RStan and other necessary packages are downloaded. Additional needed packages include:\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nPlease refer to the Additional Resources page for tutorials related to downloaded the needed software and packages."
   }
 ]
