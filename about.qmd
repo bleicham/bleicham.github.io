@@ -4,7 +4,7 @@ title: ""
 
 ## Getting Started
 
-Please download the software specified on the [Overview](index.qmd) page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the *QuantDiffForecast* toolbox from GitHub prior to the lab and view the associated tutorial.
+Please download the software specified on the [Overview](Overview.qmd) page as soon as possible. If you plan to use the Apporto Virtual Desktop, please set up your account before the Day One practicum. Please reach out if you need any help. Additionally, please download the *QuantDiffForecast* toolbox from GitHub prior to the lab and view the associated tutorial.
 
 The *QuantDiffForecast* toolbox has both video and written tutorials available, and we highly recommend that both be viewed. We will also cover the toolbox during the lab on Day One of the module.
 

@@ -11,7 +11,7 @@ website:
   title: "SISMID: MCMC 1"
   navbar:
     left:
-      - href: index.qmd
+      - href: Overview.qmd
         text: Overview
       - href: about.qmd
         text: Preparation
