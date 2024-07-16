@@ -68,5 +68,61 @@
     "title": "SISMID: MCMC 1",
     "section": "Practical Exercise 2",
     "text": "Practical Exercise 2\nPrior to the second practical exercise, please make sure R, RStudio, RStan and other necessary packages are downloaded. Additional needed packages include:\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nPlease refer to the Additional Resources page for tutorials related to downloaded the needed software and packages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Monday, July 22, 8:30 AM – 5:00 PM\nTuesday July 23, 8:30 AM – 5:00 PM\nWednesday July 24, 8:30 AM – 12:00 PM\n\nClassroom: Randall Rollins Building (RR 200)"
+  },
+  {
+    "objectID": "index.html#meeting-times",
+    "href": "index.html#meeting-times",
+    "title": "SISMID: MCMC 1",
+    "section": "",
+    "text": "Monday, July 22, 8:30 AM – 5:00 PM\nTuesday July 23, 8:30 AM – 5:00 PM\nWednesday July 24, 8:30 AM – 12:00 PM\n\nClassroom: Randall Rollins Building (RR 200)"
+  },
+  {
+    "objectID": "index.html#module-summary",
+    "href": "index.html#module-summary",
+    "title": "SISMID: MCMC 1",
+    "section": "Module Summary",
+    "text": "Module Summary\nMathematical models based on systems of ordinary differential equations (ODEs) are frequently applied in various scientific fields to assess hypotheses, estimate key model parameters, and generate predictions about the system’s state. To support their application, this module introduces frequentist and Bayesian methods for estimating parameters and generating short-term forecasts with quantified uncertainty from dynamical models. Motivating practical examples will be based on epidemic models with varying levels of complexity. The course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC.\nThe course includes a general introduction to Bayesian statistics, Monte Carlo, and MCMC. Some relevant facts from the Markov chain theory are reviewed. Algorithms include Gibbs sampling and Metropolis-Hastings. A practical introduction to convergence diagnostics is included. The module will alternate between lectures and computer labs."
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "SISMID: MCMC 1",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nThis module assumes knowledge of probability and inference covered in an introductory statistical course. Students will learn to use R and MATLAB toolboxes designed for parameter estimation and forecasting using dynamic models. Students are expected to have basic knowledge of the R computing environment. Students new to R should complete a tutorial before the module."
+  },
+  {
+    "objectID": "index.html#required-software",
+    "href": "index.html#required-software",
+    "title": "SISMID: MCMC 1",
+    "section": "Required Software",
+    "text": "Required Software\nSoftware: R, R-Studio, MATLAB (The Mathworks, Inc.)\nR Packages: Stan\nMATLAB Packages: Curve Fitting Toolbox, Global Optimization Toolbox, Optimization Toolbox, Signal Processing Toolbox, Simulink, Statistics and Machine Learning Toolbox\nEmory has also provided us with access to the Apporto Virtual Desktop. This desktop contains the required MATLAB software, and comes pre-loaded with the needed MATLAB packages. If MATLAB is not available on the local system, please use Apporto. R and RStudio are free to download on your local system. Additional details regarding the set-up for the required software can be found within the Additional Resources page."
+  },
+  {
+    "objectID": "index.html#module-content",
+    "href": "index.html#module-content",
+    "title": "SISMID: MCMC 1",
+    "section": "Module Content",
+    "text": "Module Content\n\nBrief review of ordinary differential equation models applied to infectious disease transmission and control.\nIntroduction to parameter identifiability\nIntroduction to uncertainty quantification using parametric bootstrapping\nModel selection and assessing the quality of model fit\nIntroduction to Bayesian statistics, Monte Carlo, and MCMC\nBayesian modeling framework for fitting and forecasting epidemic trajectories in Stan\nModel-based forecasts with quantified uncertainty\nMetrics for assessing calibration and forecasting performance"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "SISMID: MCMC 1",
+    "section": "Instructors",
+    "text": "Instructors\n\nGerardo Chowell, PhD\nProfessor and Chair, Department of Population Health Sciences, Georgia State University\nDr. Chowell’s research focuses on developing and applying mathematical and statistical methods for investigating the spread and control of emerging and re-emerging pathogens. Recent works includes leading the development of various toolboxes for fitting and forecasting disease trends.\nEmail: gchowell@gsu.edu\n\n\nNick Hengartner, PhD\nActing Director, Center for Nonlinear Studies, Los Alamos National Laboratory.\nDr. Hengartner’s research interests include Applied Mathematics, Mathematical Biology, Machine Learning, and Data Science. He is interested in understanding and developing methodologies to learn from data. He is a fellow of the American Statistical Association.\nEmail: nickh@lanl.gov\n\n\nTA: Amanda Bleichrodt, MPH\nDoctoral Student, Department of Population Health Sciences, Georgia State University\nAmanda is this course’s teaching assistant and a 2CI fellow in Dr. Gerardo Chowell’s lab. Her research interests include exploring diverse modeling methodologies for forecasting disease outbreaks and developing user-friendly forecasting tools. Recent works include evaluating model performance in forecasting the recent mpox outbreak and real-time forecasting of multiple disease types.\nEmail: ableichrodt1@student.gsu.edu"
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "SISMID: MCMC 1",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\nReview of epidemic models (deterministic and stochastic\nIntro to Bayesian inference, Monte Carlo Markov Chain\nBayesian inference for fitting and forecasting epidemic models\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability. Frequentist approach to fitting and forecasting epidemics.\nMCMC algorithms + Lab\nPractical Exercise\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting tutorial + Lab\nThe Art of MCMC Sampling\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\nPractical Exercise\nData augmentation methods\n-"
   }
 ]
