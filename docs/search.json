@@ -53,7 +53,7 @@
     "href": "Overview.html#schedule",
     "title": "SISMID: MCMC 1",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\nReview of epidemic models (deterministic and stochastic\nIntro to Bayesian inference, Monte Carlo Markov Chain\nBayesian inference for fitting and forecasting epidemic models\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability. Frequentist approach to fitting and forecasting epidemics.\nMCMC algorithms + Lab\nPractical Exercise\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting tutorial + Lab\nThe Art of MCMC Sampling\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\nPractical Exercise\nData augmentation methods\n-"
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\nTime\nDay 1\nDay 2\nDay 3\n\n\n\n\n8:30-10:00 am\nReview of epidemic models (Deterministic and Stochastic)\nIntro to Bayesian inference, Monte Carlo Markov Chain\nBayesian inference for fitting and forecasting epidemic models\n\n\n10:00-10:30 am\nBreak\nBreak\nBreak\n\n\n10:30-12:00 pm\nParameter identifiability. Frequentist approach to fitting and forecasting epidemics.\nMCMC algorithms + Lab\nPractical Exercise\n\n\n12:00 - 1:30 pm\nLunch Break\nLunch Break\n-\n\n\n1:30 - 3:00 pm\nParameter estimation and forecasting tutorial + Lab\nThe Art of MCMC Sampling\n-\n\n\n3:00 - 3:30 pm\nBreak\nBreak\n-\n\n\n3:30 - 5:00 pm\nPractical Exercise\nData augmentation methods\n-"
   },
   {
     "objectID": "additionaDetails.html",
