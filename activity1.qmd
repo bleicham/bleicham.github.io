@@ -10,15 +10,17 @@ This is where you can respond with your results from the first practical exercis
 
 Prior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:
 
-- Curve Fitting Toolbox
-- Global Optimization Toolbox
-- Optimization Toolbox 
-- Signal Processing Toolbox
-- Simulink
-- Statistics 
-- Machine Learning Toolbox
+-   Curve Fitting Toolbox
+-   Global Optimization Toolbox
+-   Optimization Toolbox
+-   Signal Processing Toolbox
+-   Simulink
+-   Statistics
+-   Machine Learning Toolbox
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/AJxVjgiOmkTW1grpSzb39/respond" width="800px" height="600px"></iframe>
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/AJxVjgiOmkTW1grpSzb39/respond" width="800px" height="600px">
+
+</iframe>
 
 <iframe src="https://pollev-embeds.com/multiple_choice_polls/wkPRU4ha7qQXZgO70kC2w/respond" width="800px" height="600px">
 

@@ -57,12 +57,13 @@ Covers
 -   Preparing the toolbox
 -   Workflow
 
-
-**Tutorial Paper:** Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: [10.1002/sim.10036](https://doi.org/10.1002/sim.10036). Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352. 
+**Tutorial Paper:** Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: [10.1002/sim.10036](https://doi.org/10.1002/sim.10036). Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.
 
 **Tutorial Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eyyX63H12sY?si=hW9j9yN6ZiyUq_N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eyyX63H12sY?si=hW9j9yN6ZiyUq_N8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 
 ### *RStan*
 
@@ -72,8 +73,5 @@ Covers
 
 Covers
 
-- Installing RStan
-- Basic usuage examples 
-
-
-
+-   Installing RStan
+-   Basic usuage examples

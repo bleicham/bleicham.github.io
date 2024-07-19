@@ -20,14 +20,15 @@ Prior to the second half of the course, please make sure to download the most re
 
 The [Additional Resources](additionaDetails.qmd) page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the *QuantDiffForecast* toolbox and the associated tutorial.
 
-## Readings and Additional Slides 
+## Readings and Additional Slides
 
 While the readings for this module are optional. We highly recommend that you take a look at the following papers as they will help facilitate use of the *QuantDiffForecast Toolbox*, and will provide additional insight into the materials we will cover over the next few days.
 
-- Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: [10.1002/sim.10036](https://doi.org/10.1002/sim.10036). Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.
-- Chowell G. Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A Primer for parameter uncertainty, identifiability, and forecasts. Infect Dis Model. 2017 Aug;2(3):379-398. doi: [10.1016/j.idm.2017.08.001](https://doi.org/10.1016/j.idm.2017.08.001). Epub 2017 Aug 12. PMID: 29250607; PMCID: PMC5726591.
-- Bleichrodt A, Luo R, Kirpich A, Chowell G. Evaluating the forecasting performance of ensemble sub-epidemic frameworks and other time series models for the 2022–2023 mpox epidemic. Royal Society Open Science \[Internet\]. 2024 Jul 1 \[cited 2024 Jul 15\];11(7). Available from: [https://doi.org/10.1098/rsos.240248](https://doi.org/10.1098/rsos.240248).
-- Gelman A, Carlin J, Stern H, Dunson D, Vehtari A, Rubin D. Bayesian Data Analysis
-Third edition (with errors fixed as of 15 February 2021). 3rd ed. 2021. [Link to text](BDA3.pdf). 
-- Slides: [Intro to Stan](Powerpoints/intro_to_stan.pdf) 
-
+-   Chowell G, Bleichrodt A, Luo R. Parameter estimation and forecasting with quantified uncertainty for ordinary differential equation models using QuantDiffForecast: A MATLAB toolbox and tutorial. Stat Med. 2024 Apr 30;43(9):1826-1848. doi: [10.1002/sim.10036](https://doi.org/10.1002/sim.10036). Epub 2024 Feb 20. PMID: 38378161; PMCID: PMC11031352.
+-   Chowell G. Fitting dynamic models to epidemic outbreaks with quantified uncertainty: A Primer for parameter uncertainty, identifiability, and forecasts. Infect Dis Model. 2017 Aug;2(3):379-398. doi: [10.1016/j.idm.2017.08.001](https://doi.org/10.1016/j.idm.2017.08.001). Epub 2017 Aug 12. PMID: 29250607; PMCID: PMC5726591.
+-   Bleichrodt A, Luo R, Kirpich A, Chowell G. Evaluating the forecasting performance of ensemble sub-epidemic frameworks and other time series models for the 2022–2023 mpox epidemic. Royal Society Open Science \[Internet\]. 2024 Jul 1 \[cited 2024 Jul 15\];11(7). Available from: <https://doi.org/10.1098/rsos.240248>.
+-   Gelman A, Carlin J, Stern H, Dunson D, Vehtari A, Rubin D. Bayesian Data Analysis Third edition (with errors fixed as of 15 February 2021). 3rd ed. 2021. [Link to text](BDA3.pdf).
+-   Slides: [Intro to Stan](Powerpoints/intro_to_stan.pdf)
+- Yan, P., & Chowell, G. (2019). Quantitative methods for investigating infectious disease outbreaks (Vol. 70). Cham, Switzerland: Springer. [Link to Book](https://link.springer.com/book/10.1007/978-3-030-21923-9)
+- Keeling, M. J., & Rohani, P. (2011). Modeling infectious diseases in humans and animals. Princeton university press. [Link to Book](https://books.google.com/books?hl=en&lr=&id=LxzILSuKDhUC&oi=fnd&pg=PP1&dq=rohani+keeling&ots=VKgw5nNHIj&sig=OnBw8fOCnQwVBA3siwawytyRFRY#v=onepage&q=rohani%20keeling&f=false)
+- Brauer, F., Castillo-Chavez, C., & Feng, Z. (2019). Mathematical models in epidemiology (Vol. 32). New York: Springer. [Link to Book](https://link.springer.com/book/10.1007/978-1-4939-9828-9)
