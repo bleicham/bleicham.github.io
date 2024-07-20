@@ -16,6 +16,7 @@ Prior to the second half of the course, please make sure to download the most re
 -   rstan
 -   bayesplot
 -   rstantools
+-   MASS
 -   desolve.
 
 The [Additional Resources](additionaDetails.qmd) page contains tutorials on how to access Apporto, prepare MATLAB, download both R and Rstudio, and on downloading packages in R. It also contains the links to the *QuantDiffForecast* toolbox and the associated tutorial.
