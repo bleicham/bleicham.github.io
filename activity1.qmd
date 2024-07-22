@@ -18,6 +18,12 @@ Prior to the first practical exercise, please make sure MATLAB and other necessa
 -   Statistics
 -   Machine Learning Toolbox
 
+*Slides:* Coming Soon. 
+
+*Other Needed Materials*
+
+Coming Soon.
+
 <iframe src="https://pollev-embeds.com/multiple_choice_polls/AJxVjgiOmkTW1grpSzb39/respond" width="800px" height="600px">
 
 </iframe>

@@ -75,7 +75,7 @@ Amanda is this course's teaching assistant and a 2CI fellow in Dr. Gerardo Chowe
 ## Schedule
 
 |      Time       |                                         Day 1                                         |                         Day 2                         |                             Day 3                              |
-|:-------------:|:-----------------------:|:-------------:|:----------------:|
+|:---------------:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------------------:|
 |  8:30-10:00 am  |               Review of epidemic models (Deterministic and Stochastic)                | Intro to Bayesian inference, Monte Carlo Markov Chain | Bayesian inference for fitting and forecasting epidemic models |
 | 10:00-10:30 am  |                                        *Break*                                        |                        *Break*                        |                            *Break*                             |
 | 10:30-12:00 pm  | Parameter identifiability. Frequentist approach to fitting and forecasting epidemics. |                 MCMC algorithms + Lab                 |                       Practical Exercise                       |

@@ -124,5 +124,12 @@
     "title": "SISMID: MCMC 1",
     "section": "Practical Exercise 2",
     "text": "Practical Exercise 2\nPrior to the second practical exercise, please make sure R, RStudio, RStan and other necessary packages are downloaded. Additional needed packages include:\n\nlearnr\ntidyverse\ntinytex\nrstan\nbayesplot\nrstantools\ndesolve.\n\nPlease refer to the Additional Resources page for tutorials related to downloaded the needed software and packages."
+  },
+  {
+    "objectID": "about.html#day-one---slides",
+    "href": "about.html#day-one---slides",
+    "title": "SISMID: MCMC 1",
+    "section": "Day One - Slides",
+    "text": "Day One - Slides\n\nReview of epidemic models (Deterministic and Stochastic)\nParameter identifiability\nFrequentist approach to fitting and forecasting epidemics\nParameter estimation and forecasting tutorial + Lab"
   }
 ]
