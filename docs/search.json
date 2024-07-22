@@ -116,7 +116,7 @@
     "href": "activity1.html#practical-exercise-1",
     "title": "SISMID: MCMC 1",
     "section": "Practical Exercise 1",
-    "text": "Practical Exercise 1\nPrior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:\n\nCurve Fitting Toolbox\nGlobal Optimization Toolbox\nOptimization Toolbox\nSignal Processing Toolbox\nSimulink\nStatistics\nMachine Learning Toolbox"
+    "text": "Practical Exercise 1\nPrior to the first practical exercise, please make sure MATLAB and other necessary packages are downloaded. Additional needed packages include:\n\nCurve Fitting Toolbox\nGlobal Optimization Toolbox\nOptimization Toolbox\nSignal Processing Toolbox\nSimulink\nStatistics\nMachine Learning Toolbox\n\nSlides: Coming Soon.\nOther Needed Materials\nComing Soon."
   },
   {
     "objectID": "activity1.html#practical-exercise-2",
@@ -130,6 +130,6 @@
     "href": "about.html#day-one---slides",
     "title": "SISMID: MCMC 1",
     "section": "Day One - Slides",
-    "text": "Day One - Slides\n\nReview of epidemic models (Deterministic and Stochastic)\nParameter identifiability\nFrequentist approach to fitting and forecasting epidemics\nParameter estimation and forecasting tutorial + Lab"
+    "text": "Day One - Slides\n\nReview of epidemic models (Deterministic and Stochastic)\nParameter identifiability\nFrequentist approach to fitting and forecasting epidemics\nParameter estimation and forecasting tutorial + Lab\nLab Materials"
   }
 ]

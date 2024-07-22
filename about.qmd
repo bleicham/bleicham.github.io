@@ -27,6 +27,7 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
 - [Parameter identifiability](Powerpoints/Day One - Structural identifiability.pdf)
 - [Frequentist approach to fitting and forecasting epidemics](Powerpoints/Day One - Freq. Approach to Fitting and Forecasting.pdf)
 - [Parameter estimation and forecasting tutorial + Lab](Powerpoints/Day One - Lab + Exercises.pdf)
+- [Lab Materials](Day One Lab Materials.zip)
 
 ## Readings and Additional Slides
 
