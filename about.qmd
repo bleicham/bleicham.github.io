@@ -23,11 +23,16 @@ The [Additional Resources](additionaDetails.qmd) page contains tutorials on how 
 
 ## Day One - Slides
 
-- [Review of epidemic models (Deterministic and Stochastic)](Powerpoints/Day One - Review of epidemic models.pdf)
-- [Parameter identifiability](Powerpoints/Day One - Structural identifiability.pdf)
-- [Frequentist approach to fitting and forecasting epidemics](Powerpoints/Day One - Freq. Approach to Fitting and Forecasting.pdf)
-- [Parameter estimation and forecasting tutorial + Lab](Powerpoints/Day One - Lab + Exercises.pdf)
-- [Lab Materials](Day One Lab Materials.zip)
+-   [Review of epidemic models (Deterministic and Stochastic)](Powerpoints/Day%20One%20-%20Review%20of%20epidemic%20models.pdf)
+-   [Parameter identifiability](Powerpoints/Day%20One%20-%20Structural%20identifiability.pdf)
+-   [Frequentist approach to fitting and forecasting epidemics](Powerpoints/Day%20One%20-%20Freq.%20Approach%20to%20Fitting%20and%20Forecasting.pdf)
+-   [Parameter estimation and forecasting tutorial + Lab](Powerpoints/Day%20One%20-%20Lab%20+%20Exercises.pdf)
+-   [Lab Materials](Day%20One%20Lab%20Materials.zip)
+
+## Day Two & Three - Materials
+
+-   [Day 2 & 3 Materials](Epi_MCMC - UPDATED.zip)
+
 
 ## Readings and Additional Slides
 
@@ -41,4 +46,4 @@ While the readings for this module are optional. We highly recommend that you ta
 -   Yan, P., & Chowell, G. (2019). Quantitative methods for investigating infectious disease outbreaks (Vol. 70). Cham, Switzerland: Springer. [Link to Book](https://link.springer.com/book/10.1007/978-3-030-21923-9)
 -   Keeling, M. J., & Rohani, P. (2011). Modeling infectious diseases in humans and animals. Princeton university press. [Link to Book](https://books.google.com/books?hl=en&lr=&id=LxzILSuKDhUC&oi=fnd&pg=PP1&dq=rohani+keeling&ots=VKgw5nNHIj&sig=OnBw8fOCnQwVBA3siwawytyRFRY#v=onepage&q=rohani%20keeling&f=false)
 -   Brauer, F., Castillo-Chavez, C., & Feng, Z. (2019). Mathematical models in epidemiology (Vol. 32). New York: Springer. [Link to Book](https://link.springer.com/book/10.1007/978-1-4939-9828-9)
-- Allen, L. (2010). AN Introduction to Stochastic Processes with Applications to Biology. 2nd ed. 2010. Boca Raton: CRC Press. [Link to Book](https://books.google.com/books?hl=en&lr=&id=oET7CAAAQBAJ&oi=fnd&pg=PP1&dq=info:qsCBf_kWZCMJ:scholar.google.com&ots=6jvbt66Zgt&sig=522ZkhSO9Rd7emNKQty5wLA2fvM#v=onepage&q&f=false)
+-   Allen, L. (2010). AN Introduction to Stochastic Processes with Applications to Biology. 2nd ed. 2010. Boca Raton: CRC Press. [Link to Book](https://books.google.com/books?hl=en&lr=&id=oET7CAAAQBAJ&oi=fnd&pg=PP1&dq=info:qsCBf_kWZCMJ:scholar.google.com&ots=6jvbt66Zgt&sig=522ZkhSO9Rd7emNKQty5wLA2fvM#v=onepage&q&f=false)
